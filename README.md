@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm a Front-End developer</h1>
 <h3 align="center">A passionate frontend developer from Chicago, Illinois</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="/Images/codingandPreview.gif">
 
 - 🌱 I’m currently learning **Backend tech ,SQL languages, and mobile development**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ecasas182015@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vnjClniiXb3acqUPIg9vh5cx5K2xyF2L/view?usp=sharing](https://drive.google.com/file/d/1vnjClniiXb3acqUPIg9vh5cx5K2xyF2L/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1vnjClniiXb3acqUPIg9vh5cx5K2xyF2L/view?usp=sharing)
 
 - ⚡ Fun fact **I like to create 3d models to print into real life with accurate measurements**
 
